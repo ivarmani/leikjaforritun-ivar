@@ -1,6 +1,6 @@
 # leikjaforritun Ívar
 ## Linkar
-#### Verkefni 1A: 
+#### Verkefni 1A(gerði 2 borð í leiknum): https://youtu.be/i6gChdWY3tg
 #### Verkefni 1B: 
 
 
