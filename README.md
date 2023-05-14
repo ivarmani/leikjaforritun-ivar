@@ -4,7 +4,7 @@
 #### Verkefni 1B: https://youtu.be/5T4gV9c6cFg
 #### Verkefni 2: https://youtu.be/EpmA2XYeWMs
 #### Verkefni 3: https://youtu.be/vRERzfK29RE
-#### Verkefni 5: 
+#### Verkefni 5: https://youtu.be/c4QKBSBgxfY
 
 --------------------------------------------------------------------------------------------------------
 #### spurning 1: Scene view er glugginn sem maður er mest í. Þarna ertu að gera leikinn og breyta hann til.
